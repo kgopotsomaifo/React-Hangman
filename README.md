@@ -19,7 +19,8 @@
 Guess the word/phrase before your man gets hung!
 
 ## Table of contents inside the project
-- public folder - pre-packaged react files. /n
+- public folder - pre-packaged react files. 
+  
 Inside the src folder, you should find the following:
 - components folder - includes components/files for the project
 - dictionary folder - contains a text file dictionary with words in it.
