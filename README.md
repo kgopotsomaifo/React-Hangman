@@ -19,16 +19,18 @@
 Guess the word/phrase before your man gets hung!
 
 ## Table of contents inside the project
-
-- images folder - contains different images of the hangman and a winning and losing picture.
-- dictionary folder - contains a text file dictionary with words in it.
+- public folder - pre-packaged react files.
+Inside the src folder, you should find the following:
 - components folder - includes components/files for the project
+- dictionary folder - contains a text file dictionary with words in it.
+- images folder - contains different images of the hangman and a winning and losing picture.
 - App.css
 - App.js
 - index.css
 - index.js
 - reportWebVitals.js
 - setupTest.js
+
 
 ## Installation
 
